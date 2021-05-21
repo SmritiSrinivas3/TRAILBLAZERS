@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1512626120412-faf41adb4874?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    font-weight:bold;
+    color: white;
+    padding: 4px;
+ translate: 1000%;
+}
+h1{
+    font-size: 44px;
+}
+
+.form{
+    text-align: left;
+    text-shadow: 0px 0px 120px black;
+}
+
+button{
+    color: white;
+    font-size: 17px;
+    font-weight: 700px;
+    width: 172px;
+    height: 38px;
+    background-color: rgb(228, 152, 165);
+    font-family: 'Montserrat', sans-serif;
+}
