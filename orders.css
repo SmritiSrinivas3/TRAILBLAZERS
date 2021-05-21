@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1512626120412-faf41adb4874?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight:bolder;
+    color: whitesmoke;
+    padding: 34px;
+}
+h1{
+    font-size: 44px;
+}
