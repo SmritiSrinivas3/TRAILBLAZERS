@@ -4,37 +4,39 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .parallax1 {
- 
-  background-image: url("https://miro.medium.com/max/800/0*oz2e-hQtsHOWzoB4.");
+  /* The image used */
+  background-image: url("https://images.unsplash.com/photo-1512428559087-560fa5ceab42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
 
+  /* Set a specific height */
+  min-height: 500px; 
 
-  min-height: 700px; 
-
-
+  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .parallax2 {
+  /* The image used */
+  background-image: url("https://images.unsplash.com/photo-1522096823084-2d1aa8411c13?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
 
-  background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2018/03/wordpress-chat-bot.png");
-
-  
+  /* Set a specific height */
   min-height: 500px; 
 
- 
+  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .parallax3 {
+  /* The image used */
+  background-image: url("https://images.unsplash.com/photo-1530811761207-8d9d22f0a141?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80");
 
-  background-image: url("https://www.userlike.com/api/proxy/resize/do-i-need-a-chatbot/header-chat-box.png?height=720");
-
+  /* Set a specific height */
   min-height: 500px; 
 
+  /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
