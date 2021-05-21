@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.parallax1 {
+ 
+  background-image: url("https://miro.medium.com/max/800/0*oz2e-hQtsHOWzoB4.");
+
+
+  min-height: 700px; 
+
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+
+  background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2018/03/wordpress-chat-bot.png");
+
+  
+  min-height: 500px; 
+
+ 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+
+  background-image: url("https://www.userlike.com/api/proxy/resize/do-i-need-a-chatbot/header-chat-box.png?height=720");
+
+  min-height: 500px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+​
+</style>
+</head>
+<body>
+
+
+
+<div class="parallax1"></div>
+<div style="height:200px;background-color:grey;font-size:36px">
+  chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+</div>
+
+
+<div class="parallax2"></div>
+<div style="height:200px;background-color:grey;font-size:36px">
+  chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+</div>
+
+
+<div class="parallax3"></div>
+<div style="height:200px;background-color:grey;font-size:36px">
+  chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+chatbotchatbotchatbotchatbotchatbot
+</div>
+
+
+</body>
+</html>
