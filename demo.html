@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee point</title>
+    <link rel="stylesheet" href="demo.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100&display=swap" rel="stylesheet">
+
+
+
+</head>
+<body>
+
+    <div class="navigationBar">
+        <nav>
+            ABOUT US <a href#></a>
+            &nbsp;ORDER <a href#></a>
+            &nbsp; JOBS<a href#></a>
+        </nav>
+    </div>
+    
+    <h1>COFFEE POINT </h1>
+    <br><br>
+     <p>We provide you with the best coffee in the town. Come, join our family</p>
+
+
+     <div class="chatBot" id="chatBot">
+        <iframe
+        allow="microphone;"
+    
+        width="250"
+        height="430"
+        src="https://console.dialogflow.com/api-client/demo/embedded/2a854d51-e42c-4e59-aa6d-554c49d6616c">
+    </iframe>
+    </div>
+
+
+    <BUTTON id="typeSomething" ONCLICK="ShowAndHide()">Chat with us</BUTTON>
+
+    <SCRIPT>
+        function ShowAndHide() {
+            var x = document.getElementById('chatBot');
+            if (x.style.display == 'none') {
+                x.style.display = 'block';
+            } else {
+                x.style.display = 'none';
+            }
+        }
+        </SCRIPT>
+
+
+
+</body>
+</html>
