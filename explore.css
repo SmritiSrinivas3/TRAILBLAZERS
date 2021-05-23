@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold ;
+    text-shadow: 0px 0px 14px solid white;
+}
+
+h1{
+    font-size: 49px;
+    
+}
+
+h3{
+font-size: 17px;
+}
+
+p{
+    text-align: center;
+    font-size: 23px;
+}
+
+.options{
+    margin: 15px;
+    padding: 0.04px;
+}
+    
